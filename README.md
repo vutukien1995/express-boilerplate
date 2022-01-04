@@ -11,4 +11,4 @@
  - Load environment variables from .env files with [dotenv](https://github.com/rolodato/dotenv-safe)
 
 ## Reference
-- https://github.com/danielfsousa/express-rest-boilerplate/blob/main/README.md
+- https://github.com/danielfsousa/express-rest-boilerplate
